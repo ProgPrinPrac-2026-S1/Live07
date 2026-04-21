@@ -3,3 +3,4 @@ def greet(name):
 
 greet("Ashok")
 greet("Sara")
+print("End of greetings for today")
